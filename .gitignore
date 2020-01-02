@@ -1,3 +1,7 @@
+mu/*.png
+mu/*.jpg
+mu/*.gif
+screenshot/*.png
 # Logs
 logs
 *.log
